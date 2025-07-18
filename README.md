@@ -21,9 +21,11 @@ The app was developed as a web-based Tic Tac Toe game and deployed by uploading 
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+   Frontend: HTML, CSS, JavaScript
+    Live Testing: CodePen
+    Hosting: TinyHost
+    App Conversion: WebIntoApp
+    APK Transfer: Google Drive
 
 ---
  ## Installation Instructions
