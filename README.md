@@ -29,5 +29,10 @@
  ## Credits
    - Inspired by Website Learners
 ---
-*This project is a simple fun game to demonstrate basic web development and deployment on Android devices.*
+Download
+
+Link to download the game on your Android device:
+https://drive.google.com/file/d/12vmSo_Aa4PCFYChqEJet-5medIVLd7EB/view?usp=sharing
+
+    ⚠️ Before installing, make sure "Install from Unknown Sources" is enabled in your Android settings.*This project is a simple fun game to demonstrate basic web development and deployment on Android devices.*
 
