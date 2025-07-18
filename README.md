@@ -29,7 +29,7 @@
  ## Credits
    - Inspired by Website Learners
 ---
-Download
+## Download
 
 Link to download the game on your Android device:
 https://drive.google.com/file/d/12vmSo_Aa4PCFYChqEJet-5medIVLd7EB/view?usp=sharing
