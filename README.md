@@ -26,10 +26,10 @@ The app was developed as a web-based Tic Tac Toe game and deployed by uploading 
 - JavaScript
 
 ---
- Installation Instructions
+ ## Installation Instructions
 
-   Download the TicTacToe.apk from Google Drive or your system.
-   Install the APK on your Android phone (enable "Install from Unknown Sources").
-   Launch the app and start playing with your friend!
+   - Download the TicTacToe.apk from Google Drive or your system.
+   - Install the APK on your Android phone (enable "Install from Unknown Sources").
+   - Launch the app and start playing with your friend!
 *This project is a simple fun game to demonstrate basic web development and deployment on Android devices.*
 
