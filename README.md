@@ -36,5 +36,6 @@ The app was developed as a web-based Tic Tac Toe game and deployed by uploading 
 ---
  ## Credits
    Inspired by Website Learners
+---
 *This project is a simple fun game to demonstrate basic web development and deployment on Android devices.*
 
