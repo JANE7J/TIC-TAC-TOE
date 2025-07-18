@@ -2,23 +2,18 @@
 
 This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
-## About the App
+## Tic Tac Toe Game – Android App
 
-The app was developed as a web-based Tic Tac Toe game and deployed by uploading the files to **Google Drive**. The files were then downloaded on an Android phone and opened in a mobile browser to play the game.
-
+This project is a simple two-player Tic Tac Toe game built using HTML, CSS, and JavaScript. The game was initially tested on CodePen, later hosted online using TinyHost, and finally converted into an Android app (APK) using WebIntoApp. The app can be installed on any Android device.
+---
 ## Features
 
-- Two-player Tic Tac Toe game
-- Responsive design suitable for mobile devices
-- Highlights winning lines
-- Option to restart the game anytime
-
-## How to Run
-
- Download the app files from Google Drive onto your Android device.
- Play by tapping the grid to place X or O.
- The game automatically detects wins or draws.
-
+   -Classic 3x3 Tic Tac Toe gameplay for two players
+   - Custom UI with styled board and background
+   - Popup modal displaying the winner or draw message
+   -"Restart Game" button to play again
+   - Fully functional offline after installation
+--- 
 ## Technologies Used
 
    - Frontend: HTML, CSS, JavaScript
