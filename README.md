@@ -1,7 +1,7 @@
 
 
 # Tic Tac Toe Game – Android App
-    This project is a simple two-player Tic Tac Toe game built using HTML, CSS, and JavaScript. The game was initially tested on CodePen, later hosted online using TinyHost, and finally converted into an Android app       (APK) using WebIntoApp. The app can be installed on any Android device.
+  - This project is a simple two-player Tic Tac Toe game built using HTML, CSS, and JavaScript. The game was initially tested on CodePen, later hosted online using TinyHost, and finally converted into an Android app       (APK) using WebIntoApp. The app can be installed on any Android device.
 ---
 ## Features
 
